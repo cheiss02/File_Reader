@@ -1,0 +1,14 @@
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.exe
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.deps.json
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.runtimeconfig.json
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.runtimeconfig.dev.json
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.dll
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\bin\Debug\netcoreapp3.1\Assigment3.pdb
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.dll
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.pdb
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\Assigment3\Assigment3\Assigment3\obj\Debug\netcoreapp3.1\Assigment3.genruntimeconfig.cache
