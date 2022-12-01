@@ -31,7 +31,7 @@ namespace Assigment3
                 return "0" + suffixes[0];
             long bytes = Math.Abs(byteSize);
             int place = Convert.ToInt32(Math.Floor(Math.Log(bytes, 1000)));
-            double num = Math.Round(bytes / Math.Pow(1024, place), 1);
+            double num = Math.Round(bytes / Math.Pow(1000, place), 1);
             return (Math.Sign(byteSize) * num).ToString() + suffixes[place];
         }
         static XDocument CreateReport(IEnumerable<string> files)
